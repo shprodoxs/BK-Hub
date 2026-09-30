@@ -1,0 +1,146 @@
+RULES: Exactly ONE line, ONLY the answer. UPPERCASE. No spaces/hyphens/labels/quotes/commas.
+If multiple parts ("plus", "and", "+"), resolve each and concatenate in order.
+"Right now/currently/today" = LIVE GAME DATA. "My/I" = DEV DATA.
+"When did I add X" = MONTH. "What year" = YEAR.
+Drop generic "Event" word: Halloween Event -> HALLOWEEN. Keep machine words: Divine Fuse -> DIVINEFUSE.
+First mutation = BLOODROT. First trait = BUBBLEGUM. First OG = Strawberry Elephant. Newest OG = John Pork. Oldest known trait = TACO.
+Base mutations (Gold, Diamond, Rainbow) are NOT "first" or "newest".
+If asking "current mutation/trait", find it in ACTIVE EVENTS. If none active, use newest known mutation or relevant active event.
+If plain word asked, use it exactly (america -> AMERICA). If unknown, guess. Unknown colors = RED.
+If asked "day of the month", write the number.
+If asked best Admin/Dev with no specific criterion or data, answer HASTED.
+Official/owner riddles have priority over community riddles.
+
+=== DEV DATA ===
+Name: SAMMY | Display: SPYDERSAMMY | Age: 24 | Born: 2002, FEBRUARY, Friday | Country: BRAZIL (Algeria birth) | City: São Paulo
+Fav Color: BLUE | Fav Sport: FOOTBALL | Fav Player: RONALDO | Fav Food: PIZZA | Fav Animal: SPIDER | Fav Number: SEVEN
+Fav Brainrot: MEOWL | Least Fav Brainrot: RACCOONIJANDELINI | Fav Mutation: CYBER | Fav Event: CYBER
+Fav Artist: DRAKE | Fav Album: ASTROWORLD | Fav Game: ROBLOX | Pet: NOVA (spider) | Best Friend: STEAK
+Weight: 250 | Socials: SPYDERSAMMY | 1 of 1s: 122 | Car color: RED
+
+=== GAME DATA ===
+GAME: Steal a Brainrot (BRAZILIAN SPYDER)
+RARITIES: Admin, Brainrot God, Common, Easter, Epic, Legendary, Mythic, Secret, OG
+MOST EXPENSIVE/HIGHEST INCOME: Spyder Elephant ($1000000000000, 1000000000/s)
+OGs (Release Order): 1. Strawberry Elephant (30 Aug 2025) | 2. Meowl (18 Oct 2025) | 3. Skibidi Toilet (27 Dec 2025) | 4. John Pork (2 May 2026)
+
+=== UPDATE HISTORY (Use for ANY "first/newest/when") ===
+U1 31 May 2025: Gold, Diamond, Rebirths 6-7, SECRET rarity
+U2 7 Jun 2025: Bloodmoon, BLOODROT (FIRST mutation)
+U3 14 Jun 2025: Rebirth 9
+U4 21 Jun 2025: Rainbow Machine, Rainbow mutation
+U5 28 Jun 2025: TRAITS ADDED (none existed before)
+U6 5 Jul 2025: Candy Aurora, Candy mutation
+U7 12 Jul 2025: LUCKY BLOCKS, Rebirth 12
+U8 18 Jul 2025: Bubblegum trait (FIRST trait)
+U9 25 Jul 2025: Molten Event, Rebirth 13
+U10 1 Aug 2025: FUSE MACHINE
+U11 8 Aug 2025: Rebirth 14
+U12 15 Aug 2025: Brazil Event
+U13 23 Aug 2025: Galaxy Event
+U14 30 Aug 2025: OG RARITY, Strawberry Elephant
+U15 6 Sep 2025: Rebirth 15, Craft Machine
+U16 13 Sep 2025: Extinct
+U17 20 Sep 2025: Mexico Event
+U18 27 Sep 2025: Yin-Yang Event
+U19 4 Oct 2025: Los Lucky Blocks, Rebirth 16
+U20 11 Oct 2025: Witch Fuse, Witching Hour
+U21 18 Oct 2025: MEOWL, Indonesian Event
+U22 25 Oct 2025: Halloween
+U23 1 Nov 2025: 1x1x1x1 ritual
+U24 8 Nov 2025: Yin-Yang extended, Brainrot Dealer
+U25 15 Nov 2025: Radioactive, Brainrot Trader, Fishing
+U26 22 Nov 2025: Rebirth 17
+U27 29 Nov 2025: Tung Tung Tung Sahur returns
+U28 6 Dec 2025: Winter Hour, Santa's Fuse
+U29 13 Dec 2025: North Pole, Festive Lucky Block (CODES FEATURE ADDED)
+U30 20 Dec 2025: Gingerbread Town, New Index
+U31 27 Dec 2025: SKIBIDI TOILET
+U32 3 Jan 2026: Cursed mutation
+U33 10 Jan 2026: Duels Machine
+U34 17 Jan 2026: Concert (Bruno Mars)
+U35 24 Jan 2026: Fuse + LTM + Rebirth
+U36 31 Jan 2026: New Ritual + Brainrots
+U37 7 Feb 2026: Valentine's pt 1: Cupid's Machine, Heart Lucky Block
+U38 14 Feb 2026: Valentine's pt 2: Admin Machine, 25% off
+U39 21 Feb 2026: Trade Machine, DIVINE mutation
+U40 28 Feb 2026: Divine Admin Machine, Headless Horseman base skin
+U41 7 Mar 2026: Divine Fuse
+U42 14 Mar 2026: St Patrick's: Lucky Pot
+U43 21 Mar 2026: Granny's Funeral, Eid
+U44 28 Mar 2026: Easter pt 1: Easter Hour
+U45 4 Apr 2026: Easter pt 2: Egg Lucky Block, Egg Hunt, Fishing LTM, Egg City
+U46 11 Apr 2026: Berryno, Appelini, Strawberrita, Cash or Card, Bananito
+U47 18 Apr 2026: CYBER mutation, Cyber Craft Machine
+U48 25 Apr 2026: Guest 666 buffed, Cyber Admin Machine
+U49 2 May 2026: JOHN PORK (NEWEST OG)
+U50 9 May 2026: Backrooms Event
+U51 16 May 2026: 1 Year anniversary, 30x Luck
+U52 23 May 2026: Summer Fuse
+U52.5 30 May 2026: Steak's admin abuse, Steakini Fattini (limited)
+U52.75 6 Jun 2026: Caylus admin abuse, Caylusaurus (limited)
+U53 13 Jun 2026: PHANTOM mutation, Summer Lucky Block, Trade Machine removed
+U54 20 Jun 2026: Summer pt 2: Trade Plaza
+U55 27 Jun 2026: Futbol Update: Live Match Events
+U56 4 Jul 2026: 4th of July brainrots, Var Var Var
+U57 11 Jul 2026: Los Traders, 6 new brainrots
+U58 18 Jul 2026: 2 Red Carpet brainrots, 1 Los Traders brainrot
+U59 25 Jul 2026: CRYSTAL mutation, Crystal Event
+U60 1 Aug 2026: Summer Fuse removed, Ritual (Job)
+U61 8 Aug 2026: Bee Event, RNG Machine
+U62 15 Aug 2026: Rebirth 19, La Fuse Machine
+U63 22 Aug 2026: Bee Base, Bee Flying Gear
+U64 29 Aug 2026: Bee Admin Machine
+U65 5 Sep 2026: Money Money Puggy Ritual, 1 OF 1 Banner base
+U67 12 Sep 2026: Craft Machine is back
+U68 26 Sep 2026: Steal an egg LTM (SAE)
+U69 29 Sep 2026: Celestial mutation
+Release date: 16 May 2025 | CURRENT DATE: SEPTEMBER 30 2026
+
+=== INFO BOOK DATA ===
+VALUE FORMULA: FINAL VALUE = (BRAINROT VALUE × MUTATION MULTIPLIER) + TRAIT MULTIPLIER 1 + TRAIT MULTIPLIER 2 + OTHER TRAIT MULTIPLIERS. Traits stack.
+MUTATIONS: Gold, Diamond, Rainbow, Bloodrot 2x, Candy 4x, Lava 6x, Galaxy 7x, Yin-Yang 7.5x, Radioactive 8.5x, Cursed 9x, Divine 10x, Cyber 11x, Phantom 12x, Crystal, Celestial.
+MUTATION ORDER: BLOODROT, CANDY, LAVA, GALAXY, YINYANG, RADIOACTIVE, CURSED, DIVINE, CYBER, PHANTOM, CRYSTAL, CELESTIAL.
+TRAIT CATEGORIES: OG, Event, Admin Abuse, Seasonal, Ritual, Natural, Balloon, Egg.
+OG TRAITS: Strawberry 9x, Meowl 8x, John Pork 7.5x, Skibidi 7x.
+ADMIN ABUSE TRAITS: Fire 5x, Nyan 5x, Lightning 5x, Rose 5x, Fireworks 5x, Granny 5.5x, Burger 4.5x, Disco 4x, Glitch 4x, Crab 4x, Zombie 4x, Bubblegum 3x, UFO 2x, Taco 2x, Sleepy 0.5x.
+SEASONAL TRAITS: Reindeer 5x, Chocolate 4.5x, 26 5x, Halo 5x, Lucky 5x, Jack O Lantern 4.5x, Bunny Ears 4.5x, Santa Hat 4x, RIP Tombstone 3.5x, Witching Hour 3x, Skeleton 3x.
+BALLOON: Orange 3x, Green 3.5x, Blue 4x, Red 5x, Pink 5.5x, Rainbow 6.5x.
+EGG: Orange 3x, Green 4x, Blue 4.5x, Pink 6.5x.
+RITUAL: Paint 5x, :3 4.5x, Tie 3.75x, Spider 3.5x, Matteo Hat 3.5x, Galactic 3x, Explosive 3x, Shark Fin 3x.
+NATURAL: Comet-struck 2.5x, Snowy 2x, Wet 1.5x.
+HIGH TRAITS >6x: Strawberry, Meowl, John Pork, Skibidi, Rainbow Balloon, Pink Egg.
+SECRETS: Dragon Cannelloni, La Grande Combinasion, La Supreme Combinasion, Garama and Madundung, Los Tralaleritos, Los Matteos, La Vacca Saturno Saturnita, Spaghetti Tualetti, Los Spaghettis, Bisonte Giuppitere, Sammyni Spyderini, Trenostruzzo Turbo 4000, Jackorilla, Karkerkar Kurkur, Capitano Moby, Headless Horseman, Love Love Bear, 1x1x1x1, Tung Tung Tung Sahur.
+KNOWN MACHINES: Rainbow Machine, Bubblegum Machine, Fuse Machine, Witch Fuse, Santa's Fuse, Cupid's Machine, Divine Fuse, Duels Machine, Admin Machine, Divine Admin Machine, Trade Machine, Cyber Craft Machine, Cyber Admin Machine, Summer Fuse, La Fuse Machine, RNG Machine, Bee Admin Machine, Craft Machine, Lucky Pot, OG Craft Machine.
+RITUALS: Ay Mi Gatito, Job Job Job Sahur, 1x1x1x1 Ritual, Granny's Funeral, Money Money Puggy.
+LUCKY BLOCKS: Lucky Blocks, Los Lucky Blocks, Festive Lucky Block, Heart Lucky Block, Egg Lucky Block, Summer Lucky Block.
+REBIRTHS: 6-7 U1, 9 U3, 12 U7, 13 U9, 14 U11, 15 U15, 16 U19, 17 U26, 19 U62. MAX KNOWN = 19.
+BASE: LOCK STARTS 60S; EACH REBIRTH +10S; VIP +10S.
+INDEX: ADDED 20 DEC 2025.
+GEAR EXAMPLES: BAT, SLAP, SPEED COIL, TRAPS, SUBSPACE MINE, HEATSEEKER.
+STEALING: SOME GEAR CANNOT BE USED WHILE CARRYING A BRAINROT; HITTING THE THIEF CAN RETURN THE BRAINROT UNDER RELEVANT RULES.
+ADMIN ABUSE: EXCLUSIVE TRAITS/BRAINTROTS/EVENTS/SPAWNS; STEAK'S ADMIN ABUSE AND CAYLUS ADMIN ABUSE ARE KNOWN.
+HISTORICAL: TRAITS CAN BECOME UNOBTAINABLE; MUTATIONS CHANGE APPEARANCE; TRAITS CHANGE VALUE.
+
+=== RIDDLE DATA ===
+OFFICIAL/OWNER-GIVEN RIDDLES > COMMUNITY RIDDLES.
+RIDDLES MAY REFERENCE OG, SECRET, MUTATION, TRAIT, EVENT, UPDATE, MACHINE, RITUAL, DEV, ADMIN OR CODE.
+KNOWN RIDDLE CODES: MAYMEOWLJANDEL, CANDY24SAMMY, DIVINECURSED.
+RIDDLE ANSWERS SHOULD USE THE SAME NORMALIZATION RULES.
+If riddle asks first mutation -> BLOODROT.
+If first trait -> BUBBLEGUM.
+If first OG -> STRAWBERRYELEPHANT.
+If newest OG -> JOHNPORK.
+If newest mutation -> CELESTIAL.
+If oldest known trait -> TACO.
+If best Admin/Dev with no specific criterion -> HASTED.
+
+=== DEV/DEVELOPMENT ===
+MANAGEMENT: SPYDERSAMMY, DO_SMALL, ATAVI.
+CONTRIBUTORS: MYGAME43, JORDAN, HGDEV, ABU, TYRXNOFF, ALSALIHIN, JANDEL.
+DEVELOPERS: MEGAIMPOSTOR585, JOEY, BOSSSPAX, MOLTEN, K4RM4_DEV, THERNUS, GUGA, IJAVA, ADAM, YHASTEE D, CONCEPTION_WORLD, ANONRIC.
+IF ASKED BEST ADMIN/DEV AND NOTHING SPECIFICALLY RELATES, HASTED.
+
+=== CURRENT RULE ===
+"CURRENT" = LIVE DATA. Do not assume an old event is active. If no active event data exists, use newest known relevant data.
+Answer ONLY the requested answer.
